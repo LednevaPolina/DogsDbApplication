@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Dogs
+build_property.RootNamespace = Dogs
+build_property.ProjectDir = D:\Разработчик программного обеспечения\ASP.NET Core\Проекты\Dogs\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Разработчик программного обеспечения\ASP.NET Core\Проекты\Dogs
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Разработчик программного обеспечения/ASP.NET Core/Проекты/Dogs/Views/Dog/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9nXEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Разработчик программного обеспечения/ASP.NET Core/Проекты/Dogs/Views/Dog/FCI0.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9nXEZDSTAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Разработчик программного обеспечения/ASP.NET Core/Проекты/Dogs/Views/Dog/FCI1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9nXEZDSTEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Разработчик программного обеспечения/ASP.NET Core/Проекты/Dogs/Views/Dog/FCI10.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9nXEZDSTEwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Разработчик программного обеспечения/ASP.NET Core/Проекты/Dogs/Views/Dog/FCI2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9nXEZDSTIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Разработчик программного обеспечения/ASP.NET Core/Проекты/Dogs/Views/Dog/FCI3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9nXEZDSTMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Разработчик программного обеспечения/ASP.NET Core/Проекты/Dogs/Views/Dog/FCI4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9nXEZDSTQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Разработчик программного обеспечения/ASP.NET Core/Проекты/Dogs/Views/Dog/FCI5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9nXEZDSTUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Разработчик программного обеспечения/ASP.NET Core/Проекты/Dogs/Views/Dog/FCI6.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9nXEZDSTYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Разработчик программного обеспечения/ASP.NET Core/Проекты/Dogs/Views/Dog/FCI7.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9nXEZDSTcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Разработчик программного обеспечения/ASP.NET Core/Проекты/Dogs/Views/Dog/FCI8.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9nXEZDSTguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Разработчик программного обеспечения/ASP.NET Core/Проекты/Dogs/Views/Dog/FCI9.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9nXEZDSTkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Разработчик программного обеспечения/ASP.NET Core/Проекты/Dogs/Views/Dog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9nXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Разработчик программного обеспечения/ASP.NET Core/Проекты/Dogs/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Разработчик программного обеспечения/ASP.NET Core/Проекты/Dogs/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Разработчик программного обеспечения/ASP.NET Core/Проекты/Dogs/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Разработчик программного обеспечения/ASP.NET Core/Проекты/Dogs/Views/Shared/_DogCardPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Eb2dDYXJkUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Разработчик программного обеспечения/ASP.NET Core/Проекты/Dogs/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Разработчик программного обеспечения/ASP.NET Core/Проекты/Dogs/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Разработчик программного обеспечения/ASP.NET Core/Проекты/Dogs/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Разработчик программного обеспечения/ASP.NET Core/Проекты/Dogs/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-62pusunc7y
